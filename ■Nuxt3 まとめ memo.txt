@@ -1,0 +1,15 @@
+■Nuxt3 まとめ
+
+・プロジェクト作成
+＄ yarn add nuxt@latest
+
+・プロジェクト作成 , nuxt3-matomeがプロジェクト名
+＄ npx nuxi init nuxt3-matome
+
+--------------------
+
+■ pinia 
+# インストール
+＄ yarn install pinia
+　or
+＄yarn add pinia

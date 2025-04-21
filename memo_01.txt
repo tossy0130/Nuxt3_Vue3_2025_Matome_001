@@ -1,0 +1,17 @@
+● pinia 
+
+・インストール
+＄yarn add @pinia/nuxt
+＄yarn add pinia
+
+・プラグインの設定
+nuxt.config.ts
+
+export  default defineNuxtConfig({
+	modules: [
+		'@pinia/nuxt', 
+	],
+})
+
+plugins/mitt.ts
+
